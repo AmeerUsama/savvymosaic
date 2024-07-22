@@ -1,0 +1,68 @@
+xml version=1.0 encoding=UTF-8
+svg id=Layer_1 data-name=Layer 1 xmlns=httpwww.w3.org2000svg xmlnsxlink=httpwww.w3.org1999xlink viewBox=0 0 452.26 118.87
+  defs
+    style
+      .cls-1 {
+        fill url(#linear-gradient);
+      }
+
+      .cls-2 {
+        font-family MontserratRoman-Regular, Montserrat;
+        font-size 20px;
+        font-variation-settings 'wght' 400;
+      }
+
+      .cls-2, .cls-3 {
+        fill #fff;
+      }
+
+      .cls-3 {
+        font-family MontserratRoman-Black, Montserrat;
+        font-size 35px;
+        font-variation-settings 'wght' 900;
+      }
+
+      .cls-4 {
+        fill url(#linear-gradient-3);
+      }
+
+      .cls-5 {
+        fill url(#linear-gradient-4);
+      }
+
+      .cls-6 {
+        fill url(#linear-gradient-2);
+      }
+
+      .cls-7 {
+        fill url(#linear-gradient-6);
+      }
+
+      .cls-8 {
+        fill url(#linear-gradient-5);
+      }
+    style
+    linearGradient id=linear-gradient x1=58.33 y1=27.39 x2=17.55 y2=27.39 gradientUnits=userSpaceOnUse
+      stop offset=0 stop-color=#4ac7f4
+      stop offset=1 stop-color=#0094d9
+    linearGradient
+    linearGradient id=linear-gradient-2 x1=11.17 y1=0 x2=11.17 y2=78.16 xlinkhref=#linear-gradient
+    linearGradient id=linear-gradient-3 x1=98.58 y1=35.84 x2=40.42 y2=35.84 xlinkhref=#linear-gradient
+    linearGradient id=linear-gradient-4 x1=0 y1=69.31 x2=17.94 y2=69.31 gradientUnits=userSpaceOnUse
+      stop offset=0 stop-color=#46c8f5
+      stop offset=1 stop-color=#0299c1
+    linearGradient
+    linearGradient id=linear-gradient-5 x1=98.61 y1=94.35 x2=0 y2=94.35 xlinkhref=#linear-gradient
+    linearGradient id=linear-gradient-6 x1=.03 y1=71.01 x2=90.54 y2=71.01 xlinkhref=#linear-gradient
+  defs
+  text class=cls-3 transform=translate(138.31 69.78)tspan x=0 y=0SAVVY MOSAICtspantext
+  g
+    path class=cls-1 d=M58.33,37.49v16.87h-17.91v-13.54c0-3.96-.98-7.88-3-11.33-.13-.23-.27-.45-.41-.67-3.69-5.87-10.03-10.77-17.69-10.77-.46,0-.93,.01-1.38,.05,0,0-2.29-11.62,4.37-17.67,1.25,.18,2.49,.43,3.71,.73,1.07,.26,2.12,.56,3.15,.89,4.05,1.29,7.83,3.07,11.25,5.28,4.38,2.82,8.16,6.33,11.12,10.37,.14,.19,.28,.38,.41,.57,2.17,3.09,3.86,6.47,4.98,10.08l.02,.07c.91,2.94,1.37,5.99,1.37,9.07Z
+    path class=cls-6 d=M22.31,.43c-.86,.78-1.58,1.66-2.16,2.59-.34,.53-.63,1.08-.89,1.65-.2,.43-.37,.85-.52,1.28-.26,.72-.47,1.45-.63,2.18-.03,.14-.06,.29-.09,.43-.61,3.03-.5,5.94-.32,7.73,0,.04,0,.07,0,.11,.01,.17,.03,.32,.05,.47,.01,.12,.03,.24,.05,.35,0,.06,.01,.12,.02,.17,0,.02,0,.04,0,.06,0,.04,0,.07,.02,.11,0,.08,.02,.16,.03,.22,0,.04,.01,.07,.02,.11,.02,.12,.03,.19,.04,.21h0V60.46S6.95,63.47,.03,78.16V0H16.54C18.14,0,19.73,.1,21.32,.29c.33,.04,.66,.09,.99,.14Z
+    path class=cls-4 d=M98.58,39.39v32.29c-.95-2.75-2.44-5.27-4.36-7.43-1.26-1.43-2.71-2.7-4.3-3.79-2.71-1.85-5.85-3.17-9.25-3.77v-16.55c0-11.95-9.76-21.72-22.06-22.4,0,0-.18-.41-.28-.59C55.22,10.63,47.56,3.34,40.42,.07v-.07h16.14c3.16,0,6.33,.28,9.42,.93,5.45,1.14,10.38,3.22,14.68,6.03,4.4,2.87,8.14,6.52,11.11,10.74,.2,.28,.4,.58,.59,.87,4.14,6.2,6.21,13.46,6.21,20.82Z
+    path class=cls-5 d=M17.94,60.46S6.95,63.47,.03,78.16H0s.01-.03,.02-.05c6.93-14.65,17.88-17.66,17.88-17.66h.03Z
+    path class=cls-8 d=M98.61,89.66c0,.77-.02,1.54-.05,2.29-.26,3.25-1.08,6.35-2.37,9.22-3.01,6.72-8.59,12.15-15.55,15.15-3.81,1.64-8.04,2.55-12.49,2.55H0s30.9-17.78,55.22-17.93l13.65-.21c4.13-.06,8.01-2.07,10.14-5.45,.91-1.44,1.48-3.06,1.63-4.8,.03-.31,.04-.62,.04-.93s-.02-.63-.04-.93c-.23-2.73-1.52-5.2-3.49-7.07,14.26-3.39,13.38-11.72,13.38-11.72,2.36,2.43,4.28,5.24,5.66,8.33,1.12,2.5,1.89,5.18,2.24,7.99,.05,.4,.09,.82,.13,1.22,.03,.76,.05,1.53,.05,2.29Z
+    path class=cls-7 d=M77.15,81.56c-.13-.12-.26-.25-.39-.36-2.29-2-5.34-3.03-8.44-3.03H.03c6.93-14.69,17.91-17.7,17.91-17.7H62.71l4.38,.02c.35-.01,.7-.02,1.06-.02,4.45,0,8.69,.91,12.49,2.56,3.76,1.62,7.12,3.95,9.89,6.81,0,0,.88,8.33-13.38,11.73Z
+  g
+  text class=cls-2 transform=translate(329.53 96.12)tspan x=0 y=0SOLUTIONStspantext
+svg
